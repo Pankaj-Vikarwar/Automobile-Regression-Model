@@ -1,5 +1,4 @@
 # Automobile-Regression-Model
 <br>
-Preprocessed and tranformed Automobile data in python until fit for regression model. standardized, trained and tested it with sci-kit learn  
-and made the prediction model summary with difference to help the understand the prediction quality.
+Preprocessed and transformed automobile data in Python, preparing it for a regression model. Performed standardization, training, and testing using Scikit-learn to develop a robust predictive model. Created a detailed summary highlighting the prediction outcomes and differences to effectively evaluate and communicate the model's quality and accuracy.
  
